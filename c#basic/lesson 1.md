@@ -35,11 +35,11 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-			string message1,message2,message3;//批量定义变量
-			message1 = Console.ReadLine();//接收输入的值赋值给变量
-			message1 = message2 = message3;//批量赋值
-            Console.WriteLine(message1,message2,message3);//批量输出
-            Console.ReadKey();//输出停留，等待按键结束
+		string message1,message2,message3;//批量定义变量
+		message1 = Console.ReadLine();//接收输入的值赋值给变量
+		message1 = message2 = message3;//批量赋值
+            	Console.WriteLine(message1,message2,message3);//批量输出
+            	Console.ReadKey();//输出停留，等待按键结束
         }
     }
 }
