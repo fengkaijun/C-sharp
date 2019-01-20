@@ -26,4 +26,9 @@
 		Console.WriteLine(fileName);
 		```
 	7.  按位运算符
-3. 循环结构
+3. 数组与循环结构
+	1. while(){}
+	2. for (int i = 0; i < length; i++){}
+	3. foreach (var item in collection){}
+	4. do{} while (true);
+	5.  随机数 var r = new Random();r.Next(1,10);
